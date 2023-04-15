@@ -1,0 +1,10 @@
+.userLink {
+    color: royalblue;
+    /* text-decoration: underline; */
+    font-weight: bolder;
+    font-style: italic;
+}
+
+.msg {
+    font-size: 40px;
+}
